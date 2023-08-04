@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 79.0, 113.0, 1395.0, 1037.0 ],
+		"rect" : [ 268.0, 113.0, 1603.0, 674.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -67,6 +67,8 @@
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 979.0, 95.0, 400.0, 220.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 515.0, 114.0, 400.0, 220.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -221,6 +223,8 @@
 					"outlettype" : [ "signal", "signal", "", "float", "list" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 247.199999999999989, 939.0, 181.0, 136.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 952.200000000000045, 114.0, 151.0, 501.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~",
@@ -348,13 +352,15 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-37",
-					"items" : [ "Cover", "Me", "I'm", "Reloading.wav", ",", "Don't", "Give", "Up.wav", ",", "Grunts", "16.wav", ",", "Tango", "Spotted.wav", ",", "Low", "Boom", "3.wav", ",", "Radio", "Voice", "11.wav", ",", "Stab", "3.wav", ",", "Whistle", "9.wav", ",", "INT", "Haunted", "Factory", ",", "Pipes", ",", "Tools", ",", "Broken", "Fan", ",", "Electricity", ",", "Lights", ",", "Hum", ",", "Reverberant.wav", ",", "INT", "Haunted", "Sewers", ",", "Roomtone", ",", "Below", "Traffic", ",", "Rumble", ",", "Distant.wav", ",", "INT", "Torture", "Chamber", ",", "Roomtone", ",", "Lights", ",", "Hum", ",", "Air.wav", ",", "Beep.wav", ",", "Drone", ",", "Bubbles", ",", "Liquid", ",", "Deep", ",", "Filter.wav", ",", "Drone", ",", "Games", "Console", "Beep", ",", "Lofi", ",", "Airy.wav", ",", "Spray", "Can", "Hit.wav", ",", "Battle", "Cry", ",", "Charge", ",", "Screams", ",", "Army", "Attacking", ",", "Running", "1.wav", ",", "Female", "Warrior", 3, "Scream", ",", "Battle", ",", "War", ",", "Cry", ",", "Fight", ",", "Shout", "3.wav", ",", "Male", "Warrior", 2, "Scream", ",", "Battle", ",", "War", ",", "Cry", ",", "Fight", ",", "Shout", "3.wav", ",", "Sword", "Scrapes", "Multiple", ",", "Battle", ",", "Metal", ",", "Slash", ",", "Draw.wav", ",", "Dungeon", "Door", "Open", ",", "Close", ",", "Locked.wav", ",", "Exterior", "Metal", "Door", "Gate", "Bolt", "Latch", "7.wav", ",", "Exterior", "Metal", "Door", "Gate", "Close", ",", "Rattle", "2.wav", ",", "Knocking", "On", "Heavy", "Door", "1.wav", ",", "Activate", "Laser.wav", ",", "Code", "Authorised.wav", ",", "Humans", "Are", "All", "The", "Same.wav", ",", "Incoming", "Fire.wav", ",", "Female", "Ghostly", "Breath", ",", "Reverse", ",", "Exhale", ",", "Air", ",", "Spirit", ",", "Ethereal", ",", "Wet", "4.wav", ",", "Ghostly", "Presence", ",", "Angelic", ",", "Vocal", ",", "Layer", ",", "Creepy", ",", "Horror", "4.wav", ",", "Male", "Ghostly", "Voice", ",", "Hide", ",", "Creepy", ",", "Air", ",", "Spirit", ",", "Ethereal", ",", "Wet.wav", ",", "Piercing", "Riser", ",", "Harsh", ",", "Metallic", ",", "Layer", ",", "Creepy", ",", "Horror", "7.wav", ",", "Antique", "Clicker", 2, ",", "Clock", ",", "Ticking", ",", "Tick", ",", "Tock", ",", "Click", ",", "Rhythm", ",", "Time", ",", "Watch", ",", "Countdown.wav", ",", "Waterphone", ",", "Clock", ",", "Ticking", ",", "Tick", ",", "Tock", ",", "Click", ",", "Rhythm", ",", "Time", ",", "Watch", ",", "Countdown.wav", ",", "LFE", "Rumble", "3.wav", ",", "Riser", "9.wav", ",", "Stinger", "8.wav", ",", "Sub", "Drop", "2.wav" ],
+					"items" : "<empty>",
 					"maxclass" : "chooser",
 					"numinlets" : 1,
 					"numoutlets" : 6,
 					"outlettype" : [ "", "", "", "", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 151.0, 484.0, 499.999999999999886, 253.0 ]
+					"patching_rect" : [ 151.0, 484.0, 499.999999999999886, 253.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 96.0, 395.5, 402.999999999999886, 220.0 ]
 				}
 
 			}
@@ -370,7 +376,9 @@
 					"numoutlets" : 6,
 					"outlettype" : [ "", "", "", "", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 151.0, 165.0, 399.0, 95.0 ]
+					"patching_rect" : [ 151.0, 165.0, 399.0, 95.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 100.0, 114.0, 399.0, 220.0 ]
 				}
 
 			}
@@ -406,6 +414,8 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 86.0, 211.0, 63.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 173.0, 49.0, 63.0, 22.0 ],
 					"text" : "script stop"
 				}
 
@@ -418,6 +428,8 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 13.0, 211.0, 64.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 100.0, 49.0, 64.0, 22.0 ],
 					"text" : "script start"
 				}
 
@@ -430,11 +442,11 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 151.0, 86.0, 317.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 100.0, 85.0, 317.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"options" : [ "-r", "ts-node/register" ],
 						"watch" : 0
 					}
@@ -1120,7 +1132,9 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 247.199999999999989, 1101.5, 60.0, 60.0 ]
+					"patching_rect" : [ 247.199999999999989, 1101.5, 60.0, 60.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 1089.200000000000045, 555.0, 60.0, 60.0 ]
 				}
 
 			}
@@ -1188,6 +1202,8 @@
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 979.0, 468.0, 400.0, 220.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 521.0, 395.5, 400.0, 220.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -1200,11 +1216,11 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 151.0, 416.0, 264.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 100.0, 367.0, 264.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"options" : [ "-r", "ts-node/register" ],
 						"watch" : 0
 					}
